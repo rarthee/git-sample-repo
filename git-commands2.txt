@@ -1,8 +1,5 @@
 git status
 git init
 git config --Global "Udemy"
-git add
-git commit -m
-git log
-git diff <filename>
-----
+
+privatebranch 2 checkout changes
